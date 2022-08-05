@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Sons-Session
+Comment=Sons-Session
+TryExec=~/.Sons-Sessions/Sons-Session.sh
+Exec=~/.Sons-Sessions/Sons-Session.sh
+StartupNotify=true
+Terminal=true
+Type=Application
+Icon=/usr/share/applications/Pclosmenu/icons/input-gaming.svg
+Categories=System;
